@@ -36,6 +36,10 @@ Its core functionality is to **display live data and enable basic control** of t
 - 🔁 May require **app restart after pairing a new device**
 - 🧱 **Flutter Version**: `3.24.4` (as of Nov–Dec 2024)
 - 🔌 **BLE Package**: [`flutter_blue_plus`](https://pub.dev/packages/flutter_blue_plus) v1.34.5 (as of May–June 2025)
+  
+> 🔄 **Developed based on my previous application**:  
+> [BLE_final_app_esp32_autonomous_vehicle](https://github.com/atrawinska/BLE_final_app_esp32_autonomous_vehicle)
+
 
 ---
 
